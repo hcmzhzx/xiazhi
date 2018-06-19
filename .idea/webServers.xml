@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6d9fba7-c277-49c2-a6a2-b7741e65186e" name="hcm" url="http://use.zx85.net/chengming/xiazhi">
+        <fileTransfer host="123.207.123.182" port="21" rootFolder="/public_html/chengming/xiazhi">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
